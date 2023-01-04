@@ -51,6 +51,7 @@ This Is A UI Search Component That Makes Search And Filtering More Easy Especial
         base_path().'/vendor/tabishalimughal/techsupportchat/views' => base_path('<Path To Views>/techsupportchat'),
         base_path().'/vendor/tabishalimughal/techsupportchat/models' => base_path('<Path To Models>/techsupportchat'),
         base_path().'/vendor/tabishalimughal/techsupportchat/controllers' => base_path('<Path To Controller>/techsupportchat'),
+        base_path().'/vendor/tabishalimughal/techsupportchat/migrations' => base_path('app/Database/migrations'),
     ], 'techsupportchat');
 ```
 - Save The File And Close It
